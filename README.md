@@ -85,7 +85,6 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
   A sequence-based NLP model built using tokenization and embedding techniques to classify IMDB movie reviews as positive or negative — reaching 90% accuracy and outperforming traditional ML baselines. Deployed on AWS EC2 so it can serve real-time predictions through a hosted application.
   `Python` `TensorFlow` `NLTK` `Scikit-Learn` `AWS EC2`
 
-> 💡 Pin these two repos on your profile (top-right of each repo → pin) so they show up right under this README.
 
 ---
 
