@@ -77,11 +77,11 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 
 ### 🌟 Featured Projects
 
-- **[AI-Driven Online Exam Proctoring System](https://github.com/govindprasad1/REPO-NAME)**
-  A real-time AI monitoring system that uses trained ML models to flag multiple persons, unauthorized objects, and unusual sounds or movement during online exams. SQL/MySQL powers the logging and analysis layer behind it, turning raw model outputs into structured exam-monitoring data.
-  `Python` `Machine Learning` `MySQL`
+-**[ScholarCite-RAG – Citation-Grounded Research Assistant](https://github.com/Govindprasad1/ScholarCite-RAG)**
+A RAG-powered academic research assistant that processes research papers and generates context-aware, citation-grounded answers. Combines hybrid retrieval (semantic search and BM25) with reranking to improve retrieval accuracy, ensuring responses are backed by relevant document sources. Includes self-verification to improve answer reliability and is deployed on AWS EC2 using Docker.
 
-- **[Sentiment Analysis in Movie Reviews](https://github.com/govindprasad1/REPO-NAME)**
+Python RAG LangChain ChromaDB Hybrid Search BM25 Reranking AWS EC2 Docker
+- **[Sentiment Analysis in Movie Reviews](https://github.com/Govindprasad1/NLP-Based-Movie-Review-Sentiment-Classification)**
   A sequence-based NLP model built using tokenization and embedding techniques to classify IMDB movie reviews as positive or negative — reaching 90% accuracy and outperforming traditional ML baselines. Deployed on AWS EC2 so it can serve real-time predictions through a hosted application.
   `Python` `TensorFlow` `NLTK` `Scikit-Learn` `AWS EC2`
 
