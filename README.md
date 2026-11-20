@@ -18,8 +18,10 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 
 - 🎓 B.Tech in Computer Science & Engineering, KTU (2021–2025)
 - ✅ **GATE 2026 Qualified** — Computer Science, with strong fundamentals in DSA, DBMS, OS, CN, and Compiler Design
-- 💼 Currently working as **AI Developer Intern @ Zecser Business LLP**, building and integrating ML/NLP pipelines on an AI-powered platform, with exposure to MLOps, model deployment, and CI/CD workflows
-- 🧠 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, LLMs, NLP, Data Science, MLOps, and Cloud Deployment**
+- 💼 Currently working as AI Developer Intern @ Zecser Business LLP, developing AI/ML and NLP pipelines for an AI-powered hiring platform, building REST APIs using FastAPI, and implementing automated resume parsing, candidate evaluation, and intelligent hiring screening.
+- 🧠 Interested in Generative AI, LLMs, Agentic AI, NLP, Data Science, MLOps, and Cloud Deployment
+- ⚙️ Hands-on experience building Retrieval-Augmented Generation (RAG) applications using LangChain, ChromaDB, hybrid search, BM25, and reranking techniques
+- 🤖 Exploring Agentic AI and LLM application development using LangGraph, LangChain, and AI agent workflows
 - 📚 Currently pursuing the **IBM Generative AI Engineering Professional Certificate** — covering LLMs, Prompt Engineering, and Fine-Tuning
 - 🎯 Completed a **Data Science, Machine Learning, Deep Learning & NLP Bootcamp**, covering preprocessing, feature engineering, and model building with Python, NumPy, Pandas, and Scikit-Learn
 - ⚡ Fun fact: I built an AI proctoring system that can catch you cheating in real time 👀
@@ -77,11 +79,11 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 
 ### 🌟 Featured Projects
 
--**[ScholarCite-RAG – Citation-Grounded Research Assistant](https://github.com/Govindprasad1/ScholarCite-RAG)**
+- **[ScholarCite-RAG – Citation-Grounded Research Assistant](https://github.com/Govindprasad1/ScholarCite-RAG)**
 A RAG-powered academic research assistant that processes research papers and generates context-aware, citation-grounded answers. Combines hybrid retrieval (semantic search and BM25) with reranking to improve retrieval accuracy, ensuring responses are backed by relevant document sources. Includes self-verification to improve answer reliability and is deployed on AWS EC2 using Docker.
 `Python` `RAG` `LangChain` `ChromaDB` `Hybrid Search` `BM25` `Reranking` `AWS` `EC2` `Docker`
 
--**[Sentiment Analysis in Movie Reviews](https://github.com/Govindprasad1/NLP-Based-Movie-Review-Sentiment-Classification)**
+- **[Sentiment Analysis in Movie Reviews](https://github.com/Govindprasad1/NLP-Based-Movie-Review-Sentiment-Classification)**
   A sequence-based NLP model built using tokenization and embedding techniques to classify IMDB movie reviews as positive or negative — reaching 90% accuracy and outperforming traditional ML baselines. Deployed on AWS EC2 so it can serve real-time predictions through a hosted application.
   `Python` `TensorFlow` `NLTK` `Scikit-Learn` `AWS EC2`
 
