@@ -10,7 +10,11 @@
   </a>
 </p>
 
-I'm a Computer Science graduate who enjoys turning data and models into things that actually work — from Machine Learning pipelines to NLP systems and, increasingly, Generative AI applications. I like understanding a problem end-to-end: from cleaning and preparing data, to building and evaluating a model, to getting it running somewhere real.
+
+
+I'm a Computer Science graduate and GATE CS 2026 qualifier who enjoys turning data and models into practical, working solutions. My interests span Machine Learning, Deep Learning, NLP, and Generative AI, with hands-on experience building AI-powered applications using Python, LangChain, LangGraph, and RAG. I enjoy working across the entire development lifecycle — from data preprocessing and model development to evaluation, API integration, and deployment using Docker and AWS. I'm always exploring new technologies and looking to build intelligent solutions that solve real-world problems.
+
+
 
 ---
 
