@@ -23,7 +23,7 @@ I'm a Computer Science graduate and GATE CS 2026 qualifier who enjoys turning da
 - 🎓 B.Tech in Computer Science & Engineering, KTU (2021–2025)
 - ✅ **GATE 2026 Qualified** — Computer Science, with strong fundamentals in DSA, DBMS, OS, CN, and Compiler Design
 - 💼 Currently working as AI Developer Intern @ Zecser Business LLP, developing AI/ML and NLP pipelines for an AI-powered hiring platform, building REST APIs using FastAPI, and implementing automated resume parsing, candidate evaluation, and intelligent hiring screening.
-- 🧠 Interested in Generative AI, LLMs, Agentic AI, NLP, Data Science, MLOps, and Cloud Deployment
+- 🧠 Interested in Generative AI, LLMs, Agentic AI, RAG, NLP, Data Science, MLOps, and Cloud Deployment
 - ⚙️ Hands-on experience building Retrieval-Augmented Generation (RAG) applications using LangChain, ChromaDB, hybrid search, BM25, and reranking techniques
 - 🤖 Exploring Agentic AI and LLM application development using LangGraph, LangChain, and AI agent workflows
 - 📚 Currently pursuing the **IBM Generative AI Engineering Professional Certificate** — covering LLMs, Prompt Engineering, and Fine-Tuning
